@@ -1,0 +1,5 @@
+https://www.kaggle.com/datasets/jr2ngb/superstore-data
+With 24 columns of variables, this data provides tons of avenues for traditional charting.
+With columns for order date and ship data, time series forecasting can be done for the linear regression models neccessary
+Area code information can lead to some more interesting visualizations such as map charts.
+Categories and Subcategories provide lots of opportunities for providing different interactive views of the data.
